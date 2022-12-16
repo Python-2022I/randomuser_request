@@ -30,7 +30,7 @@ def get_user_name():
 
 # Define users list
 users = []
-number_of_requests = 20
+number_of_requests = 10
 # Get 10 users
 for i in range(number_of_requests):
     # Get the user's name and age
